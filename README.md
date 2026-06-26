@@ -239,7 +239,7 @@ This project is licensed under the MIT License.
 ---
 
 
-Superstore Data analysis Dashboard:-l[Alt_text](
+Superstore Data analysis Dashboard:-l[Alt_text](https://github.com/pradhan-suresh/Superstore-data-analysis-Dashboard/blob/main/Screenshot%202026-06-26%20125045.png)
 
 ---
 
